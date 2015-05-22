@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BtInsecureSync</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_peers">Show peers</string>
+    <string name="peer_manager">Peer manager</string>
+
+</resources>
